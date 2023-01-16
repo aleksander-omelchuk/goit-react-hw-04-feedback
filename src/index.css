@@ -6,7 +6,8 @@
   --accent-text-color: #80000b;
 
   --main-bg-color: #ffffff;
-  --second-bg-color: #000000;
+  --second-bg-color: rgb(0, 221, 255)
+  ;
   --accent-bg-color: #00803a;
 
   --notification-message: #cccccc;
